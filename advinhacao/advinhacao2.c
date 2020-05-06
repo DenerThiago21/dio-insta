@@ -40,5 +40,7 @@ int main()
       printf("seu chute foi menor que o número secreto\n");
     }
     tentativas++;
+
+    printf("Obrigado por jogar!\n", );
   }
 }
